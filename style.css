@@ -1,0 +1,25 @@
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.gallery a {
+  margin: 10px;
+}
+
+.gallery img {
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+
+
+
+.lightbox img {
+  max-width: 200px;
+  max-height: 200px;
+  margin-top: 20px;
+}
+
+
